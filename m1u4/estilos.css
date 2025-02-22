@@ -1,0 +1,18 @@
+
+h1 {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+    color:white;
+    background-color: black;
+}
+
+.tamaño {
+    font-size: 20px;
+}
+
+#subrayado {
+    text-decoration: underline;
+}
